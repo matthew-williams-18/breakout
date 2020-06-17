@@ -12,10 +12,10 @@ To download the game files, click the button labelled "Clone or download", and c
 This should start the game!
 
 
-##Playing the game
+## Playing the game
 The goal of Breakout is the break all the bricks without allowing your ball to fall off the bottom of the screen. In this version, the player has three lives, with one being depleated for each time the ball falls off-screen. Once all lives are depleated, the game is over. Each time the ball hits a brick, the score increases by one. When all bricks on the screen are destroyed, the next level begins, containing more bricks than the last level. Additionally, the new bricks will have more health (requiring more hits before being destroyed). In its current state, the game only has three unique levels; once level three is beaten, the third level restarts. The game can be played indefinitely, either until all lives are depleated or until the player exits the game.
 
-###Controls
+### Controls
 Move paddle: left/right arrow keys
 Start game: Enter
 Pause/unpause: Space
